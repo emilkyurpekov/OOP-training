@@ -1,0 +1,5 @@
+This task defines a class Employee that holds the following information:
+name, salary, position, department, email, and age. The name, salary, position, and department are mandatory, while the rest are optional.  
+My  task was to write a program that takes N lines of information about employees from the console and calculates the department with the highest average salary, 
+and prints for each employee in that department his name, salary, email, and age - sorted by salary in descending order. If an employee doesn't have an email – 
+in place of that field, it prints "n/a" instead, if he doesn't have an age – print "-1" instead. 
