@@ -1,0 +1,3 @@
+Thuis taks defines a class Car that holds information about the model, engine, cargo, and a collection of exactly 4 tires. The
+engine, cargo, and tire should be separate classes, create a constructor that receives all information about the Car
+and creates and initializes its inner components (engine, cargo, and tires).
