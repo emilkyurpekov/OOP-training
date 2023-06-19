@@ -1,0 +1,3 @@
+This task was to fix already working code to be more organized and efficient.
+I deleted all the unused setters and getters, and some unused imports.
+I have created 2 methods to increase the clarity of the code 
